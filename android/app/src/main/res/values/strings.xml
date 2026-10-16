@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FinansERP</string>
+    <string name="title_activity_main">FinansERP</string>
+    <string name="package_name">com.deha.finanserp</string>
+    <string name="custom_url_scheme">com.deha.finanserp</string>
+</resources>
